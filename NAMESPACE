@@ -1,0 +1,4 @@
+import('cccp')
+useDynLib(h2method0606)
+exportPattern("^[[:alpha:]]+")
+export(h2_EIGEN, h2_MM, h2_RR, h2_MLE,mh2_RR0606)

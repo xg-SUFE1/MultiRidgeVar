@@ -1,0 +1,14 @@
+Package: h2method0606
+Type: Package
+Title: Estimation of  heritability via ridge regression
+Version: 2.0
+Author: Xiaoguang Li [aut,cre], 
+Maintainer: Xiaoguang Li <xgli0412@163.com>
+Description: Provide several methods to estimate the heritability for high-dimensional linear regression models, which includes the ridge regression based method of Li et al. (2021), the maximum likelihood based method of Dicker and Erdogdu (2016), the EigenPrism based method of Janson et al. (2017), and the moments based method of Dicker (2014).
+License: GPL (>= 2)
+Depends: R (>= 3.2.0)
+Imports: cccp
+LazyData: false
+NeedsCompilation: yes
+Encoding: UTF-8
+
